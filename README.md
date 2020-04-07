@@ -1,4 +1,6 @@
 # README
+a refrigrator management app to identify grocerry shelflife and utilize them to reduce waste.
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
